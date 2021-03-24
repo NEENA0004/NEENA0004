@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NEENA0004
 - 👀 I’m interested in Software-Defined Networking
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on editing the existing SDN controllers 
+- 💞️ I’m looking to collaborate on modifying the existing SDN controllers 
 - 📫 How to reach me - U can mail me in p20190004@dubai.bits-pilani.ac.in
 
 <!---
